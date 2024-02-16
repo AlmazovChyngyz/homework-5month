@@ -1,0 +1,38 @@
+.formWrap {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+h3 {
+    margin-top: 30px;
+    width: 250px;
+    height: 40px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+.inputWrap {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+input {
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 600;
+    padding-inline-start: 10px;
+    padding-inline-end: 5px;
+}
+button {
+    width: 100px;
+    height: 30px;
+    margin-top: 30px;
+    border-radius: 3px;
+    border: 1px solid;
+    cursor: pointer;
+    font-size: 17px;
+}
