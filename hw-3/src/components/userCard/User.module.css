@@ -1,0 +1,22 @@
+.mainCard {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    border: 2px #19442b solid;
+    border-radius: 5px;
+
+    width: 270px;
+    height: 290px;
+}
+.cardImg {
+    width: 150px;
+    height: 150px;
+}
+p {
+    font-size: 15px;
+    color: black;
+    font-weight: 600;
+}
